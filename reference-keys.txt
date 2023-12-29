@@ -43,6 +43,9 @@ water-vapor
 albedo
 atmosphere
 emissions
+cumulative-emissions
+annual-emssions
+carbon-intensity
 volcanos
 anual-greenhouse-gas-index-aggi
 co2
