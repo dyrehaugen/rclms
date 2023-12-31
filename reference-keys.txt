@@ -46,6 +46,7 @@ emissions
 cumulative-emissions
 annual-emssions
 carbon-intensity
+wildfires
 volcanos
 anual-greenhouse-gas-index-aggi
 co2
